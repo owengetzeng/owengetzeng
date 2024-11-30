@@ -1,7 +1,6 @@
 ## Hello there 👋
 
 I like making games that sometimes function.
-ChatGPT is my best friend/
 <!--
 **owengetzeng/owengetzeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
